@@ -81,6 +81,6 @@ module jk_ff(j, k, clk, rst, q);
 
 ![image](https://github.com/user-attachments/assets/c9e10526-ceae-41ab-81e8-b10b64f1c9db)
 
-**RESULTS**
+**RESULT**
 
 thus the implementation of JK flipflop using verilog and validating their functionality using their functional tables is verified.
